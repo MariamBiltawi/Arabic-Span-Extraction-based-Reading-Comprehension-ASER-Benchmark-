@@ -38,7 +38,7 @@ Each record in the dataset contains seven fields:
 | **Question** | The question associated with the article. |
 | **Answer** | The extracted answer to the question. |
 | **Paragraph** | The paragraph from which the answer is derived. |
-| **Answer index** | The index of the first character of the answer in the paragraph. |
+| **Answer index** | The index of the first word of the answer in the paragraph. |
 | **Domain category** | The thematic domain or category of the article. |
 
 ---
