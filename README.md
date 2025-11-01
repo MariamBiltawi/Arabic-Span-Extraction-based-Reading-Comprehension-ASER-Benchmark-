@@ -71,4 +71,3 @@ Your work contributes to the growth of **Arabic NLP** and **Machine Reading Comp
 
 ---
 
-## 🏷️ Tags
