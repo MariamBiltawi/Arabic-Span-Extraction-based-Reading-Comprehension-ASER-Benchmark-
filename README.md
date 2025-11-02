@@ -51,7 +51,7 @@ If you use this dataset in your research or development, please cite the followi
    *Arabic Span Extraction-based Reading Comprehension Benchmark (ASER) and Neural Baseline Models.*  
    *ACM Transactions on Asian and Low-Resource Language Information Processing, 22*(5), 127:1-127:29.  
 
-2. **Biltawi, M. M., Awajan, A., & Tedmori, S.** (2025).  
+2. **Biltawi, M. M., Awajan, A., & Tedmori, S.** (2024).  
    *Improved Bidirectional Attention Flow (BIDAF) Model for Arabic Machine Reading Comprehension.*  
    *Natural Language Processing, 31*(3), 771-799. [DOI: 10.1017/nlp.2024.46](https://doi.org/10.1017/nlp.2024.46)
 
